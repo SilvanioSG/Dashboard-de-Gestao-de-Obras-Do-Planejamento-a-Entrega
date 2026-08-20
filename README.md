@@ -68,7 +68,7 @@ Os dados também simulam situações encontradas no cotidiano de uma obra, inclu
 
 ---
 
-## Composição do Orçamento
+Composição do Orçamento
 
 Valores aproximados conforme a base utilizada no projeto:
 

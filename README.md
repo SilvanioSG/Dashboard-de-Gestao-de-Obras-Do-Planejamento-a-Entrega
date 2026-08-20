@@ -4,7 +4,7 @@
 
 **Autor:** Silvanio Gois — Gestor de Operações e Negócios Orientado a Dados
 
-[Portfólio](https://www.silvaniogis.com.br) · [LinkedIn](https://www.linkedin.com/in/silvanio-gois-6667b918b) · [GitHub](https://github.com/SilvanioSG)
+[Portfólio](https://www.silvaniogois.com.br/) · [LinkedIn](https://www.linkedin.com/in/silvanio-gois-6667b918b) · [GitHub](https://github.com/SilvanioSG)
 
 ---
 
@@ -68,7 +68,7 @@ Os dados também simulam situações encontradas no cotidiano de uma obra, inclu
 
 ---
 
-## Composição do Orçamento
+               ##Composição do Orçamento
 
 Valores aproximados conforme a base utilizada no projeto:
 
@@ -414,7 +414,7 @@ Mesmo diante de eventos operacionais adversos, o resultado final apresentou um d
 
 # Links
 
-* **Portfólio:** [silvaniogis.com.br](https://www.silvaniogis.com.br)
+* **Portfólio:** [silvaniogis.com.br](https://www.silvaniogois.com.br/)
 * **LinkedIn:** [linkedin.com/in/silvanio-gois-6667b918b](https://www.linkedin.com/in/silvanio-gois-6667b918b)
 * **GitHub:** [github.com/SilvanioSG](https://github.com/SilvanioSG)
 * **Dashboard Power BI:** [Acessar painel interativo](https://app.powerbi.com/view?r=eyJrIjoiYmRiNmI3MjMtYjNmMS00NjgxLTljZjYtNzY3N2ExZTg1ZTA3IiwidCI6IjJlYmQyYzU0LWY1ZDMtNGVmYi05ZGE3LWU4Yzk0YmQyMWQzOSJ9)
